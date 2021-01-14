@@ -1,0 +1,66 @@
+body{
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.container{
+  width: 950px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  height: auto;
+  margin: auto;
+  background-color:rgba(0,0,0,0.6);
+  border-radius: 20px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.logo{
+  width: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo-text{
+  font-size: 30px;
+  color: #33cc33;
+  text-align: center;
+}
+
+.content{
+  margin-left: auto;
+  width: 92%;
+  line-height: 1px;
+}
+
+nav{
+  background-color: #33cc33;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 800px;
+}
+
+.Gino22{
+  margin-top: 35px;
+}
+
+p{
+  font-size: 20px;
+  font-weight: lighter;
+  color: white;
+}
+
+span{
+  font-size: 26px;
+}
+
+footer{
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
